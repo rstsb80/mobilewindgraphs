@@ -1,8 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <?php
 
-#20100524 - randall s. ehren <randall@redigital.org>
-
 require_once "/www/redigital.org/wind/lib/monitoring_locations.php"
 
 ?>
